@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=github.com/tanmay-kalbande/Customer-Segmentation&left_color=crimson&right_color=708090)
 # Customer Segmentation Model
 
 This repository contains the code and documentation for the Customer Segmentation Model project. The project aims to perform clustering analysis on customer data to identify distinct segments and develop targeted marketing strategies.
